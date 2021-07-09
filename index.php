@@ -102,7 +102,7 @@ if(isset($_GET["action"]))
 			?>
 			<div style="clear:both"></div>
 			<br />
-			<h3>Order Details</h3>
+			<h3>Order Details are listed one by one</h3>
 			<div class="table-responsive">
 				<table class="table table-bordered">
 					<tr>
